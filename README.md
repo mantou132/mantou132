@@ -34,7 +34,7 @@ Browser tooling that enables AI agents to work with the web.
 
 ## 🛠 Technologies
 
-- **Languages:** TypeScript, JavaScript, Rust, Dart
+- **Languages:** TypeScript, JavaScript, Rust
 - **Web:** Web Components, HTML, CSS, browser APIs
 - **Platforms:** Node.js, Tauri, Flutter
 - **AI & Automation:** MCP, ACP, AI agents, browser automation
