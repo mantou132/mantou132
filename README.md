@@ -1,50 +1,54 @@
 # Hi, I'm Xianqiao Wang 👋
 
-**Senior Frontend Engineer · Product Engineer · Open Source Developer**
+**Senior Product Engineer · Web Platform · AI Infrastructure**
 
-I build developer tools, web infrastructure, and AI-powered applications.
+I build developer tools, web platforms, and AI-powered products — from framework architecture and browser integrations to Rust services and cross-platform applications.
 
-I'm interested in browser technologies, frontend architecture, and developer experience. I enjoy working close to the platform layer and taking ideas from technical design to usable products.
-
-Currently exploring the intersection of **Web Technologies, AI Agents, and Developer Tools**.
+I enjoy working close to the platform layer and taking ideas from technical design to reliable, usable products.
 
 ## 🚀 Featured Projects
 
 ### [Gem](https://github.com/mantou132/gem)
-A Web Components framework for building modern web applications.
+A Web Components framework and application toolchain for building modern web applications.
 
-- Framework architecture and component systems
-- Native Web APIs and browser capabilities
-- Server-side rendering and frontend tooling
+- Framework architecture, reactive components, and native Web APIs
+- GemKit: file-based routing, layouts, SSR, and SSG
+- Developer tooling and frontend infrastructure
 
 ### [AgentDeck](https://github.com/mantou132/AgentDeck)
-A remote interface for interacting with AI coding agents running on your computer.
+A mobile app for remotely controlling AI coding agents running on your own computers.
 
-- Agent Client Protocol (ACP) integration
-- Mobile app for remotely controlling AI agents on desktop machines
-- Cross-platform agent daemon for Windows, macOS, and Linux
-- Remote communication and relay architecture
+- ACP integration and cross-platform Rust/Node.js agent daemon
+- Encrypted relay architecture for remote communication
+- Mobile-first workflows for coding agents
 
 ### [browser4agent](https://github.com/mantou132/browser4agent)
-Browser tooling that enables AI agents to work with the web.
+Browser infrastructure that lets AI agents work with real websites through the user's browser.
 
-- Browser extension and DevTools integration
-- Model Context Protocol (MCP) and native messaging
-- Browser automation and agent tooling
+- Browser extension, DevTools integration, and native messaging
+- MCP and CLI Skill integrations
+- Browser automation, page tools, and local-first architecture
+
+### [NESBox](https://github.com/mantou132/nesbox)
+A multiplayer gaming platform built around Rust services and WebAssembly-powered game runtimes.
+
+- Rust backend and real-time multiplayer features
+- Game compatibility across NES, arcade, Flash, and custom Wasm/JavaScript runtimes
+- AI-powered search and RAG-based question answering
 
 ## 🛠 Technologies
 
 - **Languages:** TypeScript, JavaScript, Rust
-- **Web:** Web Components, HTML, CSS, browser APIs
+- **Web & Runtime:** Web Components, HTML, CSS, browser APIs, WebAssembly
 - **Platforms:** Node.js, Tauri, Flutter
-- **AI & Automation:** MCP, ACP, AI agents, browser automation
+- **AI & Systems:** MCP, ACP, AI agents, RAG, browser automation, real-time communication
 
 ## 💡 Areas of Interest
 
-- Frontend frameworks and web platform capabilities
+- Web platform and framework architecture
 - Developer tools and infrastructure
-- Cross-platform application architecture
-- Practical AI agent workflows
+- AI agent systems and practical AI applications
+- Cross-platform software and WebAssembly runtimes
 
 ## 🤝 Connect
 
