@@ -46,7 +46,7 @@ A multiplayer gaming platform built on Rust services and WebAssembly game runtim
 ## 🛠 Technologies
 
 - **Languages:** TypeScript, JavaScript, Rust
-- **Web & Runtime:** Web Components, HTML, CSS, browser APIs, browser extensions, WebAssembly
+- **Web & Runtime:** React, Vue, Web Components, HTML, CSS, browser APIs, browser extensions, WebAssembly
 - **Platforms:** Node.js, Tauri, Flutter
 - **AI & Systems:** MCP, ACP, AI agents, RAG, browser automation, real-time communication
 
