@@ -18,7 +18,7 @@ Instant synchronized lyrics for the Spotify Web Player, shipped as a browser ext
 ### [AgentDeck](https://github.com/mantou132/AgentDeck)
 A mobile app for remotely controlling AI coding agents (Claude Code, Codex, Cursor, any ACP agent) running on your own computers.
 
-- ACP integration and cross-platform Rust/Node.js agent daemon
+- Cross-platform Rust daemon acting as an ACP client for local agents
 - End-to-end encrypted, self-hostable relay
 - Shipping to iOS via TestFlight
 
