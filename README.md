@@ -21,7 +21,8 @@ A Web Components framework for building modern web applications.
 A remote interface for interacting with AI coding agents running on your computer.
 
 - Agent Client Protocol (ACP) integration
-- Cross-platform desktop and mobile experience
+- Mobile app for remotely controlling AI agents on desktop machines
+- Cross-platform agent daemon for Windows, macOS, and Linux
 - Remote communication and relay architecture
 
 ### [browser4agent](https://github.com/mantou132/browser4agent)
