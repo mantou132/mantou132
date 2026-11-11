@@ -2,57 +2,61 @@
 
 **Senior Product Engineer · Web Platform · AI Infrastructure**
 
-I build developer tools, web platforms, and AI-powered products — from framework architecture and browser integrations to Rust services and cross-platform applications.
+I build developer tools, web platforms, and AI-powered products — from framework architecture and browser extensions to Rust services and cross-platform apps.
 
-I enjoy working close to the platform layer and taking ideas from technical design to reliable, usable products.
+I like working close to the platform layer and taking ideas from user problem to a reliable, shipped product.
 
 ## 🚀 Featured Projects
 
-### [Gem](https://github.com/mantou132/gem)
-A Web Components framework and application toolchain for building modern web applications.
+### [SLyrics (Spotify-Lyrics)](https://github.com/mantou132/Spotify-Lyrics)
+Instant synchronized lyrics for the Spotify Web Player, shipped as a browser extension.
 
-- Framework architecture, reactive components, and native Web APIs
-- GemKit: file-based routing, layouts, SSR, and SSG
-- Developer tooling and frontend infrastructure
+- ~5,000 users on the [Chrome Web Store](https://chromewebstore.google.com/detail/slyrics/mkjfooclbdgjdclepjeepbmmjaclipod), rated 4.5/5 (135 ratings), 1,000+ GitHub stars
+- Maintained since 2020 and still actively updated
+- Built with Gem
 
 ### [AgentDeck](https://github.com/mantou132/AgentDeck)
-A mobile app for remotely controlling AI coding agents running on your own computers.
+A mobile app for remotely controlling AI coding agents (Claude Code, Codex, Cursor, any ACP agent) running on your own computers.
 
 - ACP integration and cross-platform Rust/Node.js agent daemon
-- Encrypted relay architecture for remote communication
-- Mobile-first workflows for coding agents
+- End-to-end encrypted, self-hostable relay
+- Shipping to iOS via TestFlight
 
 ### [browser4agent](https://github.com/mantou132/browser4agent)
-Browser infrastructure that lets AI agents work with real websites through the user's browser.
+Browser infrastructure that lets AI agents work with real websites through the user's own browser.
 
 - Browser extension, DevTools integration, and native messaging
-- MCP and CLI Skill integrations
-- Browser automation, page tools, and local-first architecture
+- Local MCP service and CLI Skill integrations
+- Page tools for browser automation, local-first by design
+
+### [Gem](https://github.com/mantou132/gem)
+A Web Components framework and application toolchain, maintained since 2019 (1,300+ commits).
+
+- Reactive components built on native Web APIs
+- GemKit: file-based routing, layouts, SSR, and SSG
+- Powers my own products, including SLyrics, NESBox, and browser4agent
 
 ### [NESBox](https://github.com/mantou132/nesbox)
-A multiplayer gaming platform built around Rust services and WebAssembly-powered game runtimes.
+A multiplayer gaming platform built on Rust services and WebAssembly game runtimes (460+ stars).
 
-- Rust backend and real-time multiplayer features
-- Game compatibility across NES, arcade, Flash, and custom Wasm/JavaScript runtimes
-- AI-powered search and RAG-based question answering
+- Rust backend with real-time multiplayer
+- Runs NES, arcade, Flash, and custom Wasm/JavaScript games
+- AI-powered search and RAG-based Q&A
 
 ## 🛠 Technologies
 
 - **Languages:** TypeScript, JavaScript, Rust
-- **Web & Runtime:** Web Components, HTML, CSS, browser APIs, WebAssembly
+- **Web & Runtime:** Web Components, HTML, CSS, browser APIs, browser extensions, WebAssembly
 - **Platforms:** Node.js, Tauri, Flutter
 - **AI & Systems:** MCP, ACP, AI agents, RAG, browser automation, real-time communication
 
-## 💡 Areas of Interest
+## 🤝 Work With Me
 
-- Web platform and framework architecture
-- Developer tools and infrastructure
-- AI agent systems and practical AI applications
-- Cross-platform software and WebAssembly runtimes
+I'm open to **remote** roles and collaborations in **developer tools, web infrastructure, and AI-powered products**.
 
-## 🤝 Connect
+- **Async-first:** I communicate best in writing — clear docs, PRs, issues, and Slack.
+- **Time zones:** Based in China (UTC+8) and happy to overlap with US hours.
 
-I'm open to remote opportunities and collaborations, particularly in **developer tools, web infrastructure, and AI-powered products**.
-
-- GitHub: [@mantou132](https://github.com/mantou132)
+- Email: [594mantou@gmail.com](mailto:594mantou@gmail.com)
 - Website: [xianqiao.wang](https://xianqiao.wang)
+- GitHub: [@mantou132](https://github.com/mantou132)
